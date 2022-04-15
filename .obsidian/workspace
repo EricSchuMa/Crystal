@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "5faad76777c6780a",
+    "type": "split",
+    "children": [
+      {
+        "id": "cbd12dcb0ae2bf7f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Exposé.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fd0485fa4c286b47",
+    "type": "split",
+    "children": [
+      {
+        "id": "585e7fa6732c5381",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "108875c3b32b8345",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "557be4f3debdbb6e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 412
+  },
+  "right": {
+    "id": "ff71ba8b634f2023",
+    "type": "split",
+    "children": [
+      {
+        "id": "52aba80a3c6638d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b985f64227decf1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Exposé.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "cbd12dcb0ae2bf7f",
+  "lastOpenFiles": [
+    "Exposé.md",
+    "Estimating Value Functions as Supervised Learning.md",
+    "Dynamic Programming.md",
+    "Heuristics.md",
+    "Identifying the Research Gap.md",
+    "Thesis Structure.md",
+    "Multi-Objective Sequential Decision Making.md",
+    "Performance Metrics for Multi-Objective Optimization.md",
+    "Multi-Objective TSC.md",
+    "Temporal Difference Learning.md"
+  ]
+}

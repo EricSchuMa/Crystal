@@ -53,4 +53,4 @@ Pareto Optimal Set
 $$P^* = \{x^* \in \Omega |\nexists x \in \Omega : F(x) \prec F(x^*)\}$$
 Pareto frontier $$PF^*=\{F(x^*)|x \in P^* \}$$
 ## Methods
-- Transformation into single-objective (scalarized MOO)
+- Transformation into single-objective ([[Scalarization|scalarized]] MOO)
